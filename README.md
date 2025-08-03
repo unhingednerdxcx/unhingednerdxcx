@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me:
 
 - 🎓 Currently learning **Zsh**, **JavaScript**, and diving deeper into **Linux**
 - 🔍 Looking to help with **embedded system projects**
@@ -35,52 +35,78 @@ To work in **Embedded System Engineering (EsE)**, **Computer Engineering (CE)**,
 ---
 
 ## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-89e051?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-89e051?style=flat&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ---
 
 ## 🌐 Socials
+<p align="center">
+  <a href="https://instagram.com/unhinged_nerd_xcx">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/Nonedudexcx">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/InstructionOdd4073">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@unhinged_xcx">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
+  </a>
+  <a href="https://x.com/unhingednerdxcx">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/unhingednerdxcx">
+    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" />
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unhinged_nerd_xcx)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nonedudexcx)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/InstructionOdd4073)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@unhinged_xcx)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/unhingednerdxcx)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/unhingednerdxcx)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=unhingednerdxcx&theme=shadow_red&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=unhingednerdxcx&theme=shadow_red&hide_border=false) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=unhingednerdxcx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=unhingednerdxcx&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=unhingednerdxcx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=unhingednerdxcx&icon=1&color=4)](https://visitcount.itsvg.in)
-
----
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=unhingednerdxcx&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF61C3&center=true&vCenter=true&width=600&lines=XCX+for+life;Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;Manjaro+user;Why+are+you+still+here" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=unhingednerdxcx&icon=1&color=4" />
+  </a>
+</p>
+
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=XCX+for+life;Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;Manjaro+user;Why+are+you+still+here" />
 </p>
 
 
