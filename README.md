@@ -1,75 +1,83 @@
-
-<h1 align="center">Sup!</h1>
-<p align="center">
-  Embedded & Electrical Systems Engineer in the making 👨‍💻<br>
-  Linux nerd | Zsh fan | Caffeine-powered ⌨️
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manjaro-Linux-35bf5c?logo=manjaro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Zsh-89e051?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code" />
-</p>
+<h1 align="center">Hi there, I'm Nuho 👋</h1>
+<p align="center">🎧 Music-loving Linux nerd | ⚡ Manjaro + Zsh enthusiast | 🔧 Future Embedded & Computer Engineer</p>
 
 ---
 
-## 🧰 Toolbox
+## 💫 About Me
 
-<div align="center">
+- 🎓 Currently learning **Zsh**, **JavaScript**, and diving deeper into **Linux**
+- 🔍 Looking to help with **embedded system projects**
+- 💡 I know a good deal about **circuits**, sensors, and low-level tinkering
+- 💻 I use **Manjaro Linux** daily with pride
+- 🎶 Music is a *must* while I work
 
-| Languages | Tools & Frameworks | Hardware |
-|----------|--------------------|----------|
-| ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) | ![Zsh](https://img.shields.io/badge/Zsh-ffffff?logo=gnubash&logoColor=89e051) | Arduino 🧠 |
-| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | Sensors & Breadboards 🧪 |
-| ![JS](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=f7df1e) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) | Soldering iron 🔥 |
+### 🎧 Vibing To
 
-</div>
+- 🎵 **Agora Hills** – *Doja Cat*  
+- 🎵 **Detonate** – *Charli XCX*  
+- 🎵 **Next Level Charli** – *Charli XCX*  
+- 🎵 **Take My Hand** – *Charli XCX*  
+- 🎵 **You (Ha Ha Ha)** – *Charli XCX*  
+- 🎵 **I Think About It All The Time** – *Charli XCX*  
+- 🎵 **Lacy** – *Olivia Rodrigo*  
+- 🎵 **So American** – *Olivia Rodrigo*  
+- 🎵 **Pretty Isn't Pretty** – *Olivia Rodrigo*  
+- 🎵 **Stranger** – *Olivia Rodrigo*
+
+
+
+### 🌟 Dream Job
+To work in **Embedded System Engineering (EsE)**, **Computer Engineering (CE)**, or **Robotics**
 
 ---
 
-## 🚀 Projects & Ideas
+## 💻 Tech Stack
 
-- 🧠 Bash & Zsh scripts for daily life hacks  
-- 💧 Water tracker + break reminder panel  
-- ⚡ Microcontroller gadgets for real-world sensing  
-- 🧪 Experimenting with sensors, displays, inputs
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-89e051?style=flat&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-<details>
-  <summary>✨ Future Plans</summary>
+---
 
-  - 🛰️ Learn embedded Linux  
-  - 🐧 Contribute to open source Linux tools  
-  - 🖼️ Build a dashboard app for personal health + PC stats  
-  - 🔥 Create my own dotfiles / rice setup  
-</details>
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unhinged_nerd_xcx)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nonedudexcx)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/InstructionOdd4073)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@unhinged_xcx)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/unhingednerdxcx)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/unhingednerdxcx)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhingednerdxcx&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=unhingednerdxcx&theme=shadow_red&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🎧 Vibes While Coding
+## 🏆 GitHub Trophies
 
-> “Agora Hills” - Doja Cat  
-> “Detonate” - Charli XCX
-> "Next Level Charli" - Charli XCX
-> "Take my hand" - Charli XCX
-> "You (ha ha ha)" - Charli XCX
-> "I think about it all the time" - Charli XCX
-> "Lacy" - Olivia Rodrigo
-> "So american" - Olivia Rodrigo
-> "Preety isn't Preety" - OLivia Rodrigo
-> “Stranger” - Olivia Rodrigo
-<i>Music + Code = 🔥 flow</i>
+![](https://github-profile-trophy.vercel.app/?username=unhingednerdxcx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=unhingednerdxcx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=unhingednerdxcx&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=89F289&center=true&vCenter=true&width=440&lines=Zsh+rocks+%F0%9F%A4%96;Manjaro+Linux+for+life+%F0%9F%90%B3;Coding+like+it's+art+%F0%9F%92%A8;Hardware+meets+software+%F0%9F%A7%AA;Nuho+was+here+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF61C3&center=true&vCenter=true&width=600&lines=XCX+for+life;Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;Manjaro+user;Why+are+you+still+here" />
 </p>
+
+
