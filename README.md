@@ -1,3 +1,6 @@
+
+![Unhinged Nerd](https://github.com/user-attachments/assets/c6c13703-4a94-4675-818a-2089c34aab4f)
+
 <h1 align="center">Hi there, I'm Nuho 👋</h1>
 <p align="center">🎧 Music-loving Linux nerd | ⚡ Manjaro + Zsh enthusiast | 🔧 Future Embedded & Computer Engineer</p>
 
