@@ -11,7 +11,7 @@
 - 🎓 Currently learning **Zsh**, **JavaScript**, and diving deeper into **Linux**
 - 🔍 Looking to help with **embedded system projects**
 - 💡 I know a good deal about **circuits**, sensors, and low-level tinkering
-- 💻 I use **Manjaro Linux** daily with pride
+- 💻 I use **Manjaro Linux** daily
 - 🎶 Music is a *must* while I work
 
 ### 🎧 Vibing To
@@ -26,7 +26,9 @@
 - 🎵 **So American** – *Olivia Rodrigo*  
 - 🎵 **Pretty Isn't Pretty** – *Olivia Rodrigo*  
 - 🎵 **Stranger** – *Olivia Rodrigo*
-
+- 🎵 **Traitor** – *Olivia Rodrigo*
+- 🎵 **GUTS** – *Olivia Rodrigo*
+- 🎵 **Charli** – *Charli XCX*
 
 
 ### 🌟 Dream Job
