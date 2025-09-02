@@ -12,24 +12,24 @@
 - 🔍 Looking to help with **embedded system projects**
 - 💡 I know a good deal about **circuits**, sensors, and low-level tinkering
 - 💻 I use **Manjaro Linux** daily
-- 🎶 Music is a *must* while I work
+- 🎶 Music is a must while I work
 
 ### 🎧 Vibing To
 
-- 🎵 **Agora Hills** – *Doja Cat*  
 - 🎵 **Detonate** – *Charli XCX*  
 - 🎵 **Next Level Charli** – *Charli XCX*  
 - 🎵 **Take My Hand** – *Charli XCX*  
 - 🎵 **You (Ha Ha Ha)** – *Charli XCX*  
 - 🎵 **I Think About It All The Time** – *Charli XCX*  
-- 🎵 **Lacy** – *Olivia Rodrigo*  
 - 🎵 **So American** – *Olivia Rodrigo*  
 - 🎵 **Pretty Isn't Pretty** – *Olivia Rodrigo*  
 - 🎵 **Stranger** – *Olivia Rodrigo*
 - 🎵 **Traitor** – *Olivia Rodrigo*
-- 🎵 **GUTS** – *Olivia Rodrigo*
 - 🎵 **Charli** – *Charli XCX*
-
+- 🎵 **STAY ALIVE** – *Nessa barret*
+- 🎵 **Russian Roullete** – *Nessa barret*
+- 🎵 **Babydoll** – *Nessa barret*
+- 🎵 **Tears** – *Sabrina Carpenter*
 
 ### 🌟 Dream Job
 To work in **Embedded System Engineering (EsE)**, **Computer Engineering (CE)**, or **Robotics**
