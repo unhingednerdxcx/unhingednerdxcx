@@ -2,7 +2,7 @@
 ![Unhinged Nerd](https://github.com/user-attachments/assets/c6c13703-4a94-4675-818a-2089c34aab4f)
 
 <h1 align="center">Its me, Unhinged.</h1>
-<p align="center">🎧 Charli's angel (;| ⚡ Embedded system + Zsh enthusiast | 🔧 I can do stuff I guess</p>
+<p align="center">🎧 Charli's angel (;| ⚡ Embedded system + Zsh user + Web dvlp | 🔧 I can do stuff I guess</p>
 
 ---
 
@@ -32,7 +32,7 @@
 - 🎵 **Tears** – *Sabrina Carpenter*
 
 ### 🌟 Dream Job
-To work in **Embedded System Engineering (EsE)**, **Computer Engineering (CE)**, or **Robotics**
+To work in **Embedded System Engineering (EsE)**, **Robotic Engineering (RE)**, or **IoT engineer**
 
 ---
 
@@ -82,8 +82,7 @@ To work in **Embedded System Engineering (EsE)**, **Computer Engineering (CE)**,
     </a>
    <a href="https://archlinux.org/" target="_blank"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="50" height="50"/></code> 
-</a>
-
+   </a>
 </p>
 
 
