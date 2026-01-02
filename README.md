@@ -8,9 +8,9 @@
 
 ## 💫 About Me:
 
-- 🎓 Currently learning **Zsh**, **JavaScript**, and diving deeper into **Linux**
-- 🔍 Looking to help with **embedded system projects**
-- 💡 I know a good deal about **circuits**, sensors, and low-level tinkering
+- 🎓 Currently learning **Javascript**, **Dart**, and **UI/UX** in general
+- 🔍 Looking to help with **embedded system projects/software dvlpment**
+- 💡 I know a good amnt about **circuits**, sensors, and software design.
 - 💻 I use **Manjaro Linux** daily
 - 🎶 Music is a must while I work
 
@@ -32,7 +32,7 @@
 - 🎵 **Tears** – *Sabrina Carpenter*
 
 ### 🌟 Dream Job
-To work in **Embedded System Engineering (EsE)**, **Robotic Engineering (RE)**, or **IoT engineer**
+To work in **Embedded System Engineering (EsE)**, **Robotic Engineering (RE)**, or **IoT engineer** or **software engineer**
 
 ---
 
