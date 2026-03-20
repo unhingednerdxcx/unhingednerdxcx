@@ -8,7 +8,7 @@
 
 ## 💫 About Me:
 
-- 🎓 Currently learning **Javascript**, **Dart**, and **UI/UX** in general
+- 🎓 Currently learning **typescript**, **Dart**, and **Low level stuff** in general
 - 🔍 Looking to help with **embedded system projects/software dvlpment**
 - 💡 I know a good amnt about **circuits**, sensors, and software design.
 - 💻 I use **Manjaro Linux** daily
