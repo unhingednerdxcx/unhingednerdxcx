@@ -32,7 +32,7 @@
 - 🎵 **Tears** – *Sabrina Carpenter*
 
 ### 🌟 Dream Job
-To work in **Embedded System Engineering (EsE)**, **Robotic Engineering (RE)**, or **IoT engineer** or **software engineer**
+To work in **OS engineering** or **systems enginering** or anything related with HCI/OS 
 
 ---
 
