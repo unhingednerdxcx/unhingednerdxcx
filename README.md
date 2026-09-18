@@ -1,6 +1,4 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=NoneDude&fontSize=55&fontColor=8844aa&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=55&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+
 
 ![Unhinged Nerd](assets/banner(1).gif)
 
@@ -119,21 +117,12 @@ let nonedude = biology::make_human(HumanDetails {
 
 ## 📊 GitHub Stats
 
-![Coding Habits](./metrics.plugin.habits.svg)
-![Achievements](./metrics.plugin.achievements.svg)
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
-  &nbsp;&nbsp;
-</p>
 
-### My personal account stats
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=unhingednerdxcx&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unhingednerdxcx&layout=compact&theme=tokyonight&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-## My organization stats
 
 
 
