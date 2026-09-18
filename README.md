@@ -128,7 +128,7 @@ let nonedude = Biology::make_human(HumanDetails {
 ## 📊 GitHub Stats
 
 ![Coding Habits](./metrics.plugin.habits.svg)
-
+![Achievements](./metrics.plugin.achievements.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
