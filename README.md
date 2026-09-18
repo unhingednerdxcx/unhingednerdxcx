@@ -1,10 +1,10 @@
-
-
-![Unhinged Nerd](assets/banner(1).gif)
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=NoneDude&fontSize=55&fontColor=8844aa&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=55&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
+
+![Unhinged Nerd](assets/banner(1).gif)
+
+
 <h1 align="center">Its me, Unhinged.</h1>
 <p align="center">🎧 Charli's angel (;| ⚡ Embedded system + Zsh user + Web dvlp | 🔧 I can do stuff I guess</p>
 
