@@ -19,7 +19,7 @@ use Universe::SolarSystem::Earth::{Chemistry, Physics};
 use Universe::Types;
 
 let biology = Chemistry::organic_chemistry_does_weird_things();
-let nonedude = Biology::make_human(HumanDetails {
+let nonedude = biology::make_human(HumanDetails {
     entity_name: "Nonedude",
     entity_gender: Gender::Male,
     entity_interests: vec![
@@ -137,8 +137,14 @@ let nonedude = Biology::make_human(HumanDetails {
 
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;EndeavourOS+user;Why+are+you+still+here;Im+a+rustacean;Im+an+arch+user+btw" />
-</p>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
 
 
