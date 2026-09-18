@@ -115,17 +115,6 @@ let nonedude = biology::make_human(HumanDetails {
 
 ---
 
-## 📊 GitHub Stats
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/unhingednerdxcx/unhingednerdxcx/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div
-
-
-
-
-
 <br clear="both">
 
 <picture data-importer="pacman">
