@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output file name
+          filename: metrics.plugin.habits.svg
+          
+          # Enable Coding Habits plugin
+          plugin_habits: yes
+          plugin_habits_facts: yes     # Displays facts (e.g., indent style, avg line length)
+          plugin_habits_charts: yes    # Displays commit activity charts by hour/day
+          
+          # Optional Configuration Options:
+          plugin_habits_days: 14       # How many days back to analyze events (1-30)
+          plugin_habits_from: 200      # Number of recent events to analyze (up to 1000)
+          config_timezone: Europe/Paris # Set your timezone for accurate active hours

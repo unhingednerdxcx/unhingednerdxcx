@@ -1,5 +1,5 @@
 
-![Unhinged Nerd](https://github.com/user-attachments/assets/c6c13703-4a94-4675-818a-2089c34aab4f)
+![Unhinged Nerd](assets/banner(1).gif)
 
 <h1 align="center">Its me, Unhinged.</h1>
 <p align="center">🎧 Charli's angel (;| ⚡ Embedded system + Zsh user + Web dvlp | 🔧 I can do stuff I guess</p>
@@ -8,32 +8,41 @@
 
 ## 💫 About Me:
 
-- 🎓 Currently learning **typescript**, **Dart**, and **Low level stuff** in general
-- 🔍 Looking to help with **embedded system projects/software dvlpment**
-- 💡 I know a good amnt about **circuits**, sensors, and software design.
-- 💻 I use **Manjaro Linux** daily
+- 🎓 Currently learning **Rust**, **Android**, and **Low level stuff** in general
+- 🔍 Looking to help with **systems-related projects/software dvlpment**
+- 💡 My niche is **psychoacoustics**, but **computational-style**.
+- 💻 I use **EndeavourOS Linux** daily
 - 🎶 Music is a must while I work
 
-### 🎧 Vibing To
+```rs
+use Universe::SolarSystem::Earth::{Chemistry, Physics};
+use Universe::Types;
 
-- 🎵 **Detonate** – *Charli XCX*  
-- 🎵 **Next Level Charli** – *Charli XCX*  
-- 🎵 **Take My Hand** – *Charli XCX*  
-- 🎵 **You (Ha Ha Ha)** – *Charli XCX*  
-- 🎵 **I Think About It All The Time** – *Charli XCX*  
-- 🎵 **So American** – *Olivia Rodrigo*  
-- 🎵 **Pretty Isn't Pretty** – *Olivia Rodrigo*  
-- 🎵 **Stranger** – *Olivia Rodrigo*
-- 🎵 **Traitor** – *Olivia Rodrigo*
-- 🎵 **Charli** – *Charli XCX*
-- 🎵 **STAY ALIVE** – *Nessa barret*
-- 🎵 **Russian Roullete** – *Nessa barret*
-- 🎵 **Babydoll** – *Nessa barret*
-- 🎵 **Tears** – *Sabrina Carpenter*
+let biology = Chemistry::organic_chemistry_does_weird_things();
+let nonedude = Biology::make_human(HumanDetails {
+    entity_name: "Nonedude",
+    entity_gender: Gender::Male,
+    entity_interests: vec![
+        "Psychology",
+        "Music",
+    ],
+    entity_extended_details: BeingDetails {
+        psychology: vec![
+            "Acoustic-based",
+        ],
 
-### 🌟 Dream Job
-To work in **OS engineering** or **systems enginering** or anything related with HCI/OS 
-
+        music: MusicDetails {
+            artists: vec![
+                "Charli XCX",
+                "Slayyyter",
+                "Nessa Barret",
+                "KatesEye",
+            ],
+        },
+    },
+    entity_message_2u: "Hi!!",
+});
+```
 ---
 
 ## 💻 Tech Stack
@@ -118,9 +127,8 @@ To work in **OS engineering** or **systems enginering** or anything related with
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+![Coding Habits](./metrics.plugin.habits.svg)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unhingednerdxcx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
@@ -130,7 +138,7 @@ To work in **OS engineering** or **systems enginering** or anything related with
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;Manjaro+user;Why+are+you+still+here;Im+a+rustacean;Im+an+arch+user+btw" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cpp+is+annoying;Music+forever;Zsh+%3E+Bash;EndeavourOS+user;Why+are+you+still+here;Im+a+rustacean;Im+an+arch+user+btw" />
 </p>
 
 
