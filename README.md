@@ -88,6 +88,7 @@ let nonedude = biology::make_human(HumanDetails {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
 </div>
+
 ---
 
 ## 🌐 Socials
@@ -111,7 +112,6 @@ let nonedude = biology::make_human(HumanDetails {
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
